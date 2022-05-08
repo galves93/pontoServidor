@@ -34,7 +34,7 @@ public class PontoServidorApplication implements CommandLineRunner {
 
     @Override
     public void run(String[] args) throws Exception {
-        System.out.println("Ponto Servidor funcinando!");; //To change body of generated methods, choose Tools | Templates.
+        System.out.println("Ponto Servidor funcinando!"); //To change body of generated methods, choose Tools | Templates.
     }
 
 }
